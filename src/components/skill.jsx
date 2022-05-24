@@ -96,7 +96,7 @@ function Skills() {
               <p>Brochure site</p>
             </li>
             <li>
-              <p>Mini games</p>
+              <p>Mini gamessss</p>
             </li>
           </ul>
         </div>
