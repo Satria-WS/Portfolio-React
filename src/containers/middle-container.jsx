@@ -1,17 +1,14 @@
 import React from "react";
+//import Profile from "../components/top-container/profile";
+import WorkExperience from "../components/middle-container/work-experience";
+import Skills from "../components/middle-container/skill"
 
-import Profile from "./profile";
-import Skills from "./skill";
-import ContactMe from "./contact";
-import WorkExperience from "./work-experience";
 
 function MiddleContainer() {
   return (
     <div className="middle-container">
-      <Profile />
       <WorkExperience />
       <Skills />
-      <ContactMe />
     </div>
   );
 }

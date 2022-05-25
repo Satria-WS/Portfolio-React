@@ -2,8 +2,8 @@ import React from "react";
 
 function WorkExperience() {
   return (
-    <div className="Work-Experience">
-      <h2 style={{textAlign:"center"}}>Work-Experience</h2>
+    <div className="Work-Experience EmptyMarginBot">
+      <h2 style={{ textAlign: "center" }}>Work-Experience</h2>
       <table cellSpacing={30}>
         <ul>
           <tr>

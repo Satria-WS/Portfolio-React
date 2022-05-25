@@ -1,8 +1,9 @@
 App
 	top-container
+	  Profile
 	middle-container
-		Profile
-		Skills
-		ContactMe
+	  Skills
+	  work-experience
 	bottom-container
-	
+	   ContactMe
+	  
